@@ -11,4 +11,5 @@ We suggest different strategies to minimize inconsistencies in facial descriptio
 - Categories such as oval, round, square and rectangular shapes could be particularly useful due to their greater morphological separation (i.e. distinctiveness).
 - Complement face shape categories with additional features such as hairline shape (round or straight) and overal facial proportions (narrow and long vs short and wide).
 
-![This is an image](https://github.com/arodifr/Poch/blob/main/Face shapes.png)
+
+![This is an image](https://github.com/arodifr/Poch/blob/main/Face_shapes.png)
